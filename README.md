@@ -1,6 +1,6 @@
 # py.assignment-reverse
 
-#case 1:
+# case 1:
 
 str= input("enter the string: ") 
 reversedString=[]
