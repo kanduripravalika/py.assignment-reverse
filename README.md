@@ -10,6 +10,7 @@ while index > 0:
     index = index - 1 
 print(reversedString)
 
+
 # case 2:
 
 str=input("enter the string: ")
